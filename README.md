@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @NareshTanuri
+[- 👋 Hi, I’m @NareshTanuri
 - 👀 I’m interested in Frontend Developing 
 - 🌱 I’m currently Working in MyLearning Plus Pvt Ltd...
-- 💞️ I’m looking to React js Developing ...
+- 💞️ Frontend: HTML, CSS, ES6,
+JavaScript, ReactJS, Bootstrap,
+React-Bootstrap
+- Backend: Basics of NodeJS, Basics
+of C-language, GraphQL
+-Database: MySQL, SQL
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-NareshTanuri/NareshTanuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+ 

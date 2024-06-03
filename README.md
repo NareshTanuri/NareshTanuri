@@ -4,9 +4,9 @@
 - 💞️ Frontend: HTML, CSS, ES6,
 JavaScript, ReactJS, Bootstrap,
 React-Bootstrap
-- Backend: Basics of NodeJS, Basics
+- 💞️ Backend: Basics of NodeJS, Basics
 of C-language, GraphQL
--Database: MySQL, SQL
+-💞️ Database: MySQL, SQL
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...

@@ -3,7 +3,7 @@
 - 🌱 I’m currently Working in MyLearning Plus Pvt Ltd...
 - 💞️ Frontend: HTML, CSS, ES6,
 JavaScript, ReactJS, Bootstrap,
-React-Bootstrap
+React-Bootstrap,Material-Ui,Redux,NextJs
 - 💞️ Backend: Basics of NodeJS, Basics
 of C-language, GraphQL
 -💞️ Database: MySQL, SQL
